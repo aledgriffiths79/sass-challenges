@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAII,YAAiB;EACb,gBAAgB,EAAE,KAAK;;AAD3B,YAAiB;EACb,gBAAgB,EAAE,KAAK;;AAD3B,YAAiB;EACb,gBAAgB,EAAE,KAAK;;AAD3B,YAAiB;EACb,gBAAgB,EAAE,KAAK",
+"sources": ["challenge-2.scss"],
+"names": [],
+"file": "challenge-2.css"
+}
