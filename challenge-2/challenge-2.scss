@@ -3,6 +3,6 @@ $colors: #aaa, #bbb, #ccc, #ddd;
 @each $color in $colors {
     $i: index($colors, $color);
     .container-#{$i} {
-        background-color: color;
+        background-color: $color;
     }
 }
